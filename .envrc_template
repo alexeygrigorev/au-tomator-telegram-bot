@@ -1,0 +1,2 @@
+export TELEGRAM_TOKEN="TODO"
+export SLACK_TOKEN="TODO"
