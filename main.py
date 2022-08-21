@@ -56,6 +56,10 @@ channel_mapping = {
         'channel': 'course-mlops-zoomcamp',
         'link': 'https://t.me/dtc_courses'
     },
+    -1001435532197: {
+        'channel': 'course-ml-zoomcamp',
+        'link': 'https://t.me/mlzoomcamp'
+    },
     -1001707092787: {
         'channel': 'integration_test',
         'link': 'https://t.me/dtc_test'
@@ -67,7 +71,7 @@ channel_mapping = {
 def capture(update: Update, context: CallbackContext):
     print('processing another message...')
     print(update)
-    
+
     if update.channel_post is None:
         print('not a channel post')
         return
