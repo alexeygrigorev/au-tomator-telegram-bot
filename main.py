@@ -60,6 +60,10 @@ channel_mapping = {
         'channel': 'course-ml-zoomcamp',
         'link': 'https://t.me/mlzoomcamp'
     },
+    -1001708295427: {
+        'channel': 'course-data-engineering',
+        'link': 'https://t.me/dezoomcamp'
+    },
     -1001707092787: {
         'channel': 'integration_test',
         'link': 'https://t.me/dtc_test'
