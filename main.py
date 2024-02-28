@@ -67,7 +67,11 @@ channel_mapping = {
     -1001707092787: {
         'channel': 'integration_test',
         'link': 'https://t.me/dtc_test'
-    }
+    },
+    -1002070983780: {
+        'channel': 'course-stocks-analytics-zoomcamp',
+        'link': 'https://t.me/stockanalyticszoomcamp'
+    },
 }
 
 
