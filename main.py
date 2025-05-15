@@ -72,6 +72,14 @@ channel_mapping = {
         'channel': 'course-stocks-analytics-zoomcamp',
         'link': 'https://t.me/stockanalyticszoomcamp'
     },
+    -1002136268305: {
+        'channel': 'course-llm-zoomcamp',
+        'link': 'https://t.me/llm_zoomcamp'
+    },
+    -1002261309914: {
+        'channel': 'course-open-source-llm',
+        'link': 'https://t.me/oss_llm_zoomcamp'
+    }
 }
 
 
